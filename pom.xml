@@ -34,7 +34,7 @@
     <plugin.version.maven-resources-plugin>3.3.1</plugin.version.maven-resources-plugin>
     <plugin.version.maven-shade-plugin>3.6.0</plugin.version.maven-shade-plugin>
     <plugin.version.maven-surefire-plugin>3.5.2</plugin.version.maven-surefire-plugin>
-    <plugin.version.spotless-maven-plugin>2.43.0</plugin.version.spotless-maven-plugin>
+    <plugin.version.spotless-maven-plugin>2.44.2</plugin.version.spotless-maven-plugin>
     <plugin.version.maven-war-plugin>3.4.0</plugin.version.maven-war-plugin>
     <plugin.version.maven-site-plugin>3.21.0</plugin.version.maven-site-plugin>
     <plugin.version.transformer-maven-plugin>1.0.0</plugin.version.transformer-maven-plugin>
